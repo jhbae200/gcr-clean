@@ -1,0 +1,10 @@
+{
+  "name": "gcr-clean",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "flags": "^0.1.3",
+    "superagent": "^6.1.0"
+  }
+}
